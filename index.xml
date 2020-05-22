@@ -6,37 +6,9 @@
     <description>Recent content on Spacehuhn Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2020 21:15:21 +0200</lastBuildDate>
     
 	<atom:link href="https://spacehuhn.wiki/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hardware</title>
-      <link>https://spacehuhn.wiki/setup/hardware/</link>
-      <pubDate>Fri, 22 May 2020 21:15:01 +0200</pubDate>
-      
-      <guid>https://spacehuhn.wiki/setup/hardware/</guid>
-      <description>Chapter 1 Some Chapter title Lorem Ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Install</title>
-      <link>https://spacehuhn.wiki/setup/install/</link>
-      <pubDate>Fri, 22 May 2020 21:15:15 +0200</pubDate>
-      
-      <guid>https://spacehuhn.wiki/setup/install/</guid>
-      <description>Chapter 2 Some Chapter title Lorem Ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Usage</title>
-      <link>https://spacehuhn.wiki/setup/usage/</link>
-      <pubDate>Fri, 22 May 2020 21:15:21 +0200</pubDate>
-      
-      <guid>https://spacehuhn.wiki/setup/usage/</guid>
-      <description>Chapter 3 Some Chapter title Lorem Ipsum.</description>
-    </item>
     
   </channel>
 </rss>
