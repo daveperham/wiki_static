@@ -3,16 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://spacehuhn.wiki/setup/hardware/</loc>
+    <lastmod>2020-05-22T21:15:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spacehuhn.wiki/setup/install/</loc>
+    <lastmod>2020-05-22T21:15:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spacehuhn.wiki/setup/usage/</loc>
+    <lastmod>2020-05-22T21:15:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spacehuhn.wiki/setup/</loc>
+    <lastmod>2020-05-22T21:13:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spacehuhn.wiki/</loc>
+    <lastmod>2020-05-22T21:15:21+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://spacehuhn.wiki/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://spacehuhn.wiki/tags/</loc>
   </url>
   
 </urlset>
